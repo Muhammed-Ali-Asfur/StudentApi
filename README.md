@@ -60,7 +60,8 @@ StudentAPI/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/StudentAPI.git
+git clone https://github.com/Muhammed-Ali-Asfur/StudentApi.git
+
 
 # Navigate to the project directory
 cd StudentAPI
